@@ -21,24 +21,30 @@ All these attributes are represented graphically within the BPMN elements.
 
 ## Scenario examples
 
-The tool has been used to model different inter-organizational scenarios.
-
-### Port Management scenario
+### 1. Port Management scenario
 
 This scenario describes the geographical location determination between a transport company and a port management company. It was originally proposed by Ribeiro et al. [1] and modeled in ADOxx in [3].
 
-### Store-Supplier Collaboration scenario
+<img alt="port_management" src="https://github.com/user-attachments/assets/6f793f31-9554-46b6-88dd-6c86cf84eda0" />
+
+
+### 2. Store-Supplier Collaboration scenario
 
 Described in [3], the second scenario captures the collaboration between a store company and a supplier, which exchange product and warehouse data in order to identify an available warehouse and prepare the products for shipment.
 
-### Energy Optimization scenario
+<img alt="store_supplier" src="https://github.com/user-attachments/assets/8acb55cf-6df7-4ee3-ace7-d8081c561179" />
+
+
+### 3. Energy Optimization scenario
+
 The third scenario illustrates a Facility Management Company and an Energy Service Provider which collaborate to optimize the energy consumption of an office building based on measured consumption data.
 
+<img alt="energy_optimization" src="https://github.com/user-attachments/assets/20a4cb35-efe4-4022-a1e2-5088eaae6c0f" />
 
 
-# References
+## References
 [1] V. H. Ribeiro, J. Barata, P. R. da Cunha, Modeling inter-organizational business process governance in the age of collaborative networks, in: Electronic Markets 34, 2024, article 51, https://doi.org/10.1007/s12525-024-00730-2 
 
 [2] BOC GmbH, The ADOxx Metamodelling Platform, 2026, URL: https://adoxx.org/  
 
-[3] T. M. Grigorovici, A Knowledge Graph Treatment to the IO-BPG Extension of BPMN, in: Proceedings of ISD 2026, AIS eLibrary, 2026. In press
+[3] T. M. Grigorovici, A Knowledge Graph Treatment to the IO-BPG Extension of BPMN, in: Proceedings of ISD 2026, AIS eLibrary, 2026 (in press)
